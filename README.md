@@ -27,6 +27,7 @@
 - [SQL Queries](https://github.com/MariVin9/SQL-Queries)
 - [Postman Collections](https://github.com/MariVin9/Postman-Collections)
 
-### Follow Me
+### Contact Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/marie_smsp)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/maryv9/)
+#### e-mail: marivink@mail.ru

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Maria and
 ## I'm a QA Engineer.
 ## 
 ### My CV

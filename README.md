@@ -2,7 +2,7 @@
 ## I'm a QA Engineer.
 ## 
 ### My CV
-[Link to my CV](https://drive.google.com/file/d/1rftoldLs-Z-0yGDer6X7L6ZRlAXpuiSn/view?usp=sharing)
+[Link to my CV (RU)](https://drive.google.com/file/d/1rftoldLs-Z-0yGDer6X7L6ZRlAXpuiSn/view?usp=sharing)
 
 
 ### Language and Tools
